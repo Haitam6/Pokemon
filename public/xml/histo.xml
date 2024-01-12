@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE operations SYSTEM "histo.dtd">
+<operations>
+  <operation>
+    <type>other</type>
+    <horodate>2022-11-29 16:13:46</horodate>
+    <desc>Création du fichier XML</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-22 00:01:49</horodate>
+    <desc>La taille (14-&gt;14) et le poids (18-&gt;14) de abomasnow [id=460] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-21 23:16:33</horodate>
+    <desc>La taille (12-&gt;2) et le poids (470-&gt;2) de absol [id=359] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-21 23:16:50</horodate>
+    <desc>La taille (1-&gt;1) et le poids (1-&gt;1) de abomasnow [id=460] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:26:44</horodate>
+    <desc/>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:27:09</horodate>
+    <desc/>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:27:51</horodate>
+    <desc/>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:27:51</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:27:52</horodate>
+    <desc/>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:27:52</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:10</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:10</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:31</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:31</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:32</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:32</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:35</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:35</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:49</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:59</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:28:59</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:29:14</horodate>
+    <desc> Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>voir</type>
+    <horodate>2023-03-21 23:29:14</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base.</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-21 23:41:42</horodate>
+    <desc>La taille (12-&gt;2) et le poids (203-&gt;3) de ambipom [id=424] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-21 23:58:10</horodate>
+    <desc>La taille (14-&gt;2) et le poids (615-&gt;2) de ampharos [id=181] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-22 00:06:59</horodate>
+    <desc>La taille (35-&gt;10) et le poids (650-&gt;10) de arbok [id=24] ont été modifiés</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-03-22 01:56:10</horodate>
+    <desc>La taille (1-&gt;2) et le poids (1-&gt;3) de abomasnow [id=460] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>modif_pok</type>
+    <horodate>2023-04-06 16:22:14</horodate>
+    <desc>La taille (8-&gt;5) et le poids (300-&gt;8) de raichu [id=26] modifiés.</desc>
+  </operation>
+</operations>
