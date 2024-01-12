@@ -3,8 +3,7 @@
     src: url('NINTENDOSWITCHUI.ttf');
 }
 
-header,
-footer {
+header {
     background-color: #D54E21;
     color: black;
     height: 50px;
@@ -26,14 +25,42 @@ header a {
     
 }
 
+footer {
+    background-color: #D54E21;
+    color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 3px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: "Switch";
+    font-size: x-large;
+    margin-top: auto;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #D3D3D3;
+}
+
+#content {
+    flex: 1;
+}
+
 footer table,
 header table {
     text-align: center;
     width: 100%;
-}
-
-body {
-    background-color: #D3D3D3;
 }
 
 .error {
